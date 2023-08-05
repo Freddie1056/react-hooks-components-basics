@@ -1,4 +1,5 @@
-import React from "react";
+// src/Article.js
+import React from 'react';
 
 function Article() {
   return (
